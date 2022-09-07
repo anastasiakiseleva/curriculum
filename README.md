@@ -2,7 +2,7 @@ This page contains links to study materials for those who want to start their ca
 
 ## Style
 
-This section contains links to the most widely used style guides and training courses that will give you basic but comprehensive understanding of what is expected of a technical writer.
+This section lists the most widely used style guides and training courses that will give you a good understanding of what is expected of a technical writer.
 
 - [Microsoft style guide](https://docs.microsoft.com/en-gb/style-guide/welcome/)
 - [Google style guide](https://developers.google.com/style)
@@ -10,6 +10,8 @@ This section contains links to the most widely used style guides and training co
 - [Gitlab technical writing course](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
 
 ## Tools and technologies
+
+This section lists some tools that are widely used by technical writers. It is by no means comprehensive, but it can give you an idea of what can be of use.
 
 - [HTML, CSS, JavaScript at w3schools.com](https://www.w3schools.com/)  
   Free tutorials to get you familiar with the basics of HTML, CSS, and JavaScript. Documentation resources often run on static site generators, so it makes sense to understand how websites work.
@@ -24,6 +26,8 @@ A full tutorial that leads you through the complete process of creating a docume
 A very simple and intuitive tool to create and publish your documentation.
 
 ## Best practices
+
+This section provides examples of genuinely good examples of how docs are done and some high-level stuff that will help you organize your documentation better.
 
 - [The best approach to structuring your documentation I have seen so far](https://diataxis.fr/)
 - [Starting from scratch: creating Minimum Viable Documentation](https://thisisimportant.net/2021/09/21/from-nothing-to-something-with-minimum-viable-documentation/)

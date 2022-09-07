@@ -1,5 +1,3 @@
-# Technical writer: curriculum
-
 This page contains links to study materials for those who want to start their career in technical writing.
 
 ## Style
